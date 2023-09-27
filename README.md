@@ -1,4 +1,7 @@
 # Chat-Bot-Using-reflex-python
+<div align="center">
+    <img src="./demo.gif" alt="icon"/>
+</div>
 # Getting Started
 
 ### 🧬 1. Clone the Repo
