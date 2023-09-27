@@ -41,4 +41,3 @@ If you'd like to contribute, please do the following:
 
 # License
 The following repo is licensed under the MIT License.
-export OPENAI_API_KEY=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
